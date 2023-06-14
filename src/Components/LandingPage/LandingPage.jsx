@@ -1,3 +1,7 @@
+import { Link } from "react-router-dom";
+
+//CSS and Image imports
+
 import styles from "./LandingPage.module.css";
 import hearts from "../../Images/heart-529607_1280.jpg";
 import bride from "../../Images/bride.jpg";
@@ -25,7 +29,9 @@ const LandingPage = () => {
       </div>
       <div className={styles.container__images}>
         <div className={styles.container__image}>
-          <img src={bridesmaids} alt="pic" />
+          <Link to="Bridesmaids">
+            <img src={bridesmaids} alt="pic" />
+          </Link>
         </div>
         <div className={styles.container__image}>
           <img src={bride} alt="pic" />
