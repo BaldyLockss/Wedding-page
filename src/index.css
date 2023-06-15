@@ -1,6 +1,9 @@
 * {
   padding: 0;
   margin: 0;
-  background-color: #cfb495;
-  color: #5d5b6a;
+}
+:root {
+  --background: #ede4e0;
+  --text: #665a48;
+  --shadow: #c8dbbe;
 }

@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 //CSS and Image imports
 
 import styles from "./LandingPage.module.css";
-import hearts from "../../Images/heart-529607_1280.jpg";
-import bride from "../../Images/bride.jpg";
-import groom from "../../Images/groom.webp";
-import bridesmaids from "../../Images/bridesmades.jpg";
-import groomsmen from "../../Images/groomsmen.jpg";
+import hearts from "../../Images/LandingPage/heart-529607_1280.jpg";
+import bride from "../../Images/LandingPage/bride.jpg";
+import groom from "../../Images/LandingPage/groom.webp";
+import bridesmaids from "../../Images/LandingPage/bridesmades.jpg";
+import groomsmen from "../../Images/LandingPage/groomsmen.jpg";
 
 const LandingPage = () => {
   return (
@@ -30,20 +30,48 @@ const LandingPage = () => {
       <div className={styles.container__images}>
         <div className={styles.container__image}>
           <Link to="Bridesmaids">
-            <img src={bridesmaids} alt="pic" />
+            <img
+              className={styles.container__image__img}
+              src={bridesmaids}
+              alt="pic"
+            />
           </Link>
         </div>
         <div className={styles.container__image}>
-          <img src={bride} alt="pic" />
+          <Link to="Bride">
+            <img
+              className={styles.container__image__img}
+              src={bride}
+              alt="pic"
+            />
+          </Link>
         </div>
         <div className={styles.container__image}>
-          <img src={hearts} alt="pic" />
+          <Link to="Couple">
+            <img
+              className={styles.container__image__img}
+              src={hearts}
+              alt="pic"
+            />
+          </Link>
         </div>
         <div className={styles.container__image}>
-          <img src={groom} alt="pic" />
+          <Link to="Groom">
+            <img
+              className={styles.container__image__img}
+              src={groom}
+              alt="pic"
+            />
+          </Link>
         </div>
         <div className={styles.container__image}>
-          <img src={groomsmen} alt="pic" />
+          <Link to="Groomsman">
+            <img
+              className={styles.container__image__img}
+              src={groomsmen}
+              alt="pic"
+            />
+          </Link>
         </div>
       </div>
     </div>
