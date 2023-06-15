@@ -8,11 +8,11 @@ import Bride from "./Components/BridePictures/Bride";
 import Couple from "./Components/CouplePictures/Couple";
 import Groom from "./Components/GroomPictures/Groom";
 import Groomsman from "./Components/GroomsmanPictures/Groomsman";
-import "./App.css";
+import styles from "./App.module.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className={styles.container}>
       <Routes>
         <Route path="/" exact element={<LandingPage />} />
         <Route path="/Bridesmaids" element={<Bridesmaids />} />
