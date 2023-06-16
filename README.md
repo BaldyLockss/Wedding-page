@@ -20,7 +20,7 @@ these pages have been compiled the same for uniformity as with the image shapes 
 
 ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/e6eaec7e-6cad-495c-a18c-6a80af90c934)
 
-###Bride and Groom
+### Bride and Groom
 
 by using larger images they become more focal and have the abilty to imput more images to scroll through or to keep it on one page a carousel can be added to each image container 
 
@@ -30,7 +30,7 @@ by using larger images they become more focal and have the abilty to imput more 
 
 ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/3eadf7fc-4470-4cd5-8d09-dee9497bcf6c)
 
-###The couple page
+### The couple page
 
 this final page contains one large image which is designed to be a slider image containing multiple images.
 
