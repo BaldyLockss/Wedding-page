@@ -27,7 +27,7 @@
   justify-content: center;
   border-radius: 50%;
   margin: 0.4em;
-  width: clamp(14em, 25vw, 30em);
+  width: clamp(14em, 25vw, 23em);
   /* width: 22em; */
   aspect-ratio: 1/1;
   position: relative;
