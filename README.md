@@ -2,9 +2,9 @@
 
 After completing a JHUB assesment in Web Design i moved on to dynamic web design using REACT. After various itterations of small tasks to understand the workings of react, i developed this website which was generated using uicoach.io. this enabled me to practice my component building and improve my CSS coding skills. 
 
-## The uicoach breif
+## The uicoach brief
 
-The breif was to create a website that a newly wed couple could view all their special day pictures, using a set colour pallet and font family.
+The brief was to create a website that a newly wed couple could view all their special day pictures, using a set colour pallet and font family.
 
 ### The Landing page
 
