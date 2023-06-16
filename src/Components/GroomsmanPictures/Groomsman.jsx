@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
 import styles from "./Groomsman.module.css";
 //image imports
-import Groomsman1 from "../../Images/Groomsman/groomsman1.jpg";
-import Groomsman2 from "../../Images/Groomsman/groomsman2.jpg";
-import Groomsman3 from "../../Images/Groomsman/groomsman3.jpg";
-import Groomsman4 from "../../Images/Groomsman/groomsman4.jpeg";
-import Groomsman5 from "../../Images/Groomsman/groomsman5.webp";
+import Groomsman1 from "../../Assets/Groomsman/groomsman1.jpg";
+import Groomsman2 from "../../Assets/Groomsman/groomsman2.jpg";
+import Groomsman3 from "../../Assets/Groomsman/groomsman3.jpg";
+import Groomsman4 from "../../Assets/Groomsman/groomsman4.jpeg";
+import Groomsman5 from "../../Assets/Groomsman/groomsman5.webp";
 
 const Groomsman = () => {
   return (

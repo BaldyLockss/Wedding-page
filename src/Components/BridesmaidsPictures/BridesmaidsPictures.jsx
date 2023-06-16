@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
 import styles from "./BridesmaidsPictures.module.css";
 //image imports
-import Bridesmaids1 from "../../Images/Bridesmaids/bridesmaid6.webp";
-import Bridesmaids2 from "../../Images/Bridesmaids/bridesmaids2.jpg";
-import Bridesmaids3 from "../../Images/Bridesmaids/bridesmaids3.jpg";
-import Bridesmaids4 from "../../Images/Bridesmaids/bridesmaids8.webp";
-import Bridesmaids5 from "../../Images/Bridesmaids/bridesmaids7.webp";
+import Bridesmaids1 from "../..//Assets/Bridesmaids/bridesmaid6.webp";
+import Bridesmaids2 from "../../Assets/Bridesmaids/bridesmaids2.jpg";
+import Bridesmaids3 from "../../Assets/Bridesmaids/bridesmaids3.jpg";
+import Bridesmaids4 from "../../Assets/Bridesmaids/bridesmaids4.jpg";
+import Bridesmaids5 from "../../Assets/Bridesmaids/bridesmaids7.webp";
 
 const Bridesmaids = () => {
   return (

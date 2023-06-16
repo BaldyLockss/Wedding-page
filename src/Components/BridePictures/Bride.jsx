@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 import styles from "./Bride.module.css";
-import Bride1 from "../../Images/Bride/bride image1.webp";
-import Bride2 from "../../Images/Bride/bride image2.jpg";
-import Bride3 from "../../Images/Bride/bride image3.jpg";
+import Bride1 from "../../Assets/Bride/bride image1.webp";
+import Bride2 from "../../Assets/Bride/bride image2.jpg";
+import Bride3 from "../../Assets/Bride/bride image3.jpg";
 
 const Bride = () => {
   return (

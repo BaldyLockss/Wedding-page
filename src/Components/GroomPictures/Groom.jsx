@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 import styles from "./Groom.module.css";
-import Groom1 from "../../Images/Groom/groom1.jpg";
-import Groom2 from "../../Images/Groom/groom2.jpg";
-import Groom3 from "../../Images/Groom/groom3.webp";
+import Groom1 from "../../Assets/Groom/groom1.jpg";
+import Groom2 from "../../Assets/Groom/groom2.jpg";
+import Groom3 from "../../Assets/Groom/groom3.webp";
 
 const Groom = () => {
   return (

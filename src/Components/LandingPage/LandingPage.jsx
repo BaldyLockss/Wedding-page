@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 //CSS and Image imports
 
 import styles from "./LandingPage.module.css";
-import hearts from "../../Images/LandingPage/heart-529607_1280.jpg";
-import bride from "../../Images/LandingPage/bride.jpg";
-import groom from "../../Images/LandingPage/groom.webp";
-import bridesmaids from "../../Images/LandingPage/bridesmades.jpg";
-import groomsmen from "../../Images/LandingPage/groomsmen.jpg";
+import hearts from "../../Assets/LandingPage/heart-529607_1280.jpg";
+import bride from "../../Assets/LandingPage/bride.jpg";
+import groom from "../../Assets/LandingPage/groom.webp";
+import bridesmaids from "../../Assets/LandingPage/bridesmades.jpg";
+import groomsmen from "../../Assets/LandingPage/groomsmen.jpg";
 
 const LandingPage = () => {
   return (
@@ -15,7 +15,7 @@ const LandingPage = () => {
       <div className={styles.container__header}>
         <div className={styles.container__title}>
           <div>
-            <h1>Your Big Day.</h1>
+            <h1>Your Big Day</h1>
           </div>
         </div>
         <div className={styles.container__intro}>

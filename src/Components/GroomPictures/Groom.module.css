@@ -26,7 +26,7 @@
   justify-content: center;
   aspect-ratio: 1/1;
   width: clamp(20em, 30vw, 33em);
-  box-shadow: 6px 6px 6px 6px var(--shadow);
+
   border-radius: 50%;
   margin: 0.4em;
 }
@@ -35,6 +35,7 @@
   aspect-ratio: 1/1;
   object-fit: cover;
   border-radius: 50%;
+  box-shadow: 6px 6px 6px 6px var(--shadow);
 }
 
 @media (max-width: 1422px) {

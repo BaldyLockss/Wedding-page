@@ -56,7 +56,6 @@ p {
   width: clamp(15em, 30vw, 16em);
   aspect-ratio: 1/1;
   position: relative;
-  box-shadow: 6px 6px 6px 6px var(--shadow);
 }
 
 .container__image__img {
@@ -66,6 +65,7 @@ p {
   object-fit: cover;
   object-position: top;
   margin: auto;
+  box-shadow: 6px 6px 6px 6px var(--shadow);
 }
 .container__image:nth-of-type(1) {
   left: 11em;
