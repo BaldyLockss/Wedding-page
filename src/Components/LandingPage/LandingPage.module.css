@@ -51,7 +51,7 @@ p {
 .container__image {
   display: flex;
   justify-content: center;
-  align-items: top;
+  /* align-items: top; */
   border-radius: 50%;
   width: clamp(15em, 30vw, 22em);
   aspect-ratio: 1/1;
@@ -65,6 +65,7 @@ p {
   aspect-ratio: 1/1;
   object-fit: cover;
   object-position: top;
+  margin: auto;
 }
 .container__image:nth-of-type(1) {
   left: 11em;
