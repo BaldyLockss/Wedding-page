@@ -40,7 +40,8 @@ This final page contains one large image which is designed to be a slider image 
 ### Mobile view
 
 
-  ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/d85d0777-cf3e-465b-b930-da504b0a479b)
+  ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/d85d0777-cf3e-465b-b930-da504b0a479b) ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/9da82db6-4ac5-4f9b-b45c-80b6f45c5f6f)
+
 ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/fb59f9bb-a225-4577-b8fb-dd245ad5acf3) ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/c150e252-541d-41fe-90ea-21e3bd1bc7ef)
 
 
