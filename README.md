@@ -8,13 +8,13 @@ The brief was to create a website that a newly wed couple could view all their s
 
 ### The Landing page
 
-the lay out was used as it challenged my use of display flex, and utilizing ofsets.
+The lay out was used as it challenged my use of display flex, and utilizing ofsets.
 
 ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/fb78288f-7f9e-4d39-ab25-f148de16a045)
 
 ### Bridesmaid and Groomsman
 
-these pages have been compiled the same for uniformity as with the image shapes for all pages. on these pages the header has been used as the return button to to reduce clutter.
+These pages have been compiled the same for uniformity as with the image shapes for all pages. on these pages the header has been used as the return button to to reduce clutter.
 
 ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/f18d0049-477c-493e-aae6-dce7b0153fc6)
 
@@ -22,7 +22,7 @@ these pages have been compiled the same for uniformity as with the image shapes 
 
 ### Bride and Groom
 
-by using larger images they become more focal and have the abilty to imput more images to scroll through or to keep it on one page a carousel can be added to each image container 
+By using larger images they become more focal and have the abilty to imput more images to scroll through or to keep it on one page a carousel can be added to each image container 
 
 
 ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/46df032e-49c9-484d-b12c-9ff0aab88d3f)
@@ -32,7 +32,18 @@ by using larger images they become more focal and have the abilty to imput more 
 
 ### The couple page
 
-this final page contains one large image which is designed to be a slider image containing multiple images.
+This final page contains one large image which is designed to be a slider image containing multiple images.
+
+![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/408e4daa-1369-48ed-b5ed-6a9681b49074)
+
+
+### Mobile view
+
+![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/d53fb7f6-a4b4-435c-91f5-0c9354a10bfb) ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/8df701ec-31f8-4b7c-bf1a-d370435a3809) ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/fb59f9bb-a225-4577-b8fb-dd245ad5acf3) ![image](https://github.com/BaldyLockss/Wedding-page/assets/132619892/c150e252-541d-41fe-90ea-21e3bd1bc7ef)
+
+
+
+
 
 
 
